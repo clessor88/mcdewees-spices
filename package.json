@@ -1,0 +1,55 @@
+{
+  "name": "mcdewees-spices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clessor88/mcdewees-spices.git"
+  },
+  "keywords": [
+    "spices",
+    "peppers",
+    "ghost",
+    "pepper",
+    "spice",
+    "seasoning",
+    "habanero",
+    "scorpion",
+    "carolina",
+    "reaper",
+    "jalapeno",
+    "mcdewees",
+    "mcdewee",
+    "bhut",
+    "jolokia",
+    "new",
+    "mexico",
+    "hatch",
+    "green",
+    "chile",
+    "chimayo",
+    "chile",
+    "chili",
+    "powder",
+    "spicy",
+    "mexican",
+    "thai",
+    "primo",
+    "pineapple",
+    "lime",
+    "mango",
+    "flavor",
+    "flavorful",
+    "flavoring"
+  ],
+  "author": "Crystal Lessor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clessor88/mcdewees-spices/issues"
+  },
+  "homepage": "https://github.com/clessor88/mcdewees-spices#readme"
+}
